@@ -1,3 +1,5 @@
+Research paper by Shweta Khosla on systemic risk, financial crisis analysis, econometrics, AI risk, and banking regulation.
+
 # AI-Driven Systemic Risk Analysis of the 2007–08 Global Financial Crisis
 
 **Author:** Shweta Khosla
@@ -6,9 +8,9 @@ This repository hosts my empirical research examining the systemic drivers of th
 
 ---
 
-## 📘 Full Research Paper
+## 📘 View the Full Research Paper
 
-👉 [Download the Full Research Paper (PDF)](https://raw.githubusercontent.com/shwetakhosla12/ai-systemic-risk-global-financial-crisis-analysis/main/Empirical%20Insights%20into%20Systemic%20Risk_2013.pdf)
+👉 **[View the Research Paper on GitHub](https://github.com/shwetakhosla12/ai-systemic-risk-global-financial-crisis-analysis/blob/main/Empirical%20Insights%20into%20Systemic%20Risk_2013.pdf)**
 
 ---
 
@@ -24,3 +26,4 @@ This repository hosts my empirical research examining the systemic drivers of th
 ## 🧠 Keywords
 
 Systemic Risk • Financial Crisis • Econometrics • Banking Regulation • AI Risk • Early Warning Systems • Risk Governance
+
