@@ -11,7 +11,7 @@ This repository hosts my empirical research examining the systemic drivers of th
 ## 📘 View the Full Research Paper
 
 👉 **[View the Research Paper on GitHub]([https://github.com/shwetakhosla12/ai-systemic-risk-global-financial-crisis-analysis/blob/main/Empirical%20Insights%20into%20Systemic%20Risk_2013.pdf](https://github.com/shwetakhosla12/ai-systemic-risk-global-financial-crisis-analysis/blob/main/Systemic_Risk_Financial_Crisis/Empirical%20Insights%20into%20Systemic%20Risk_2013.pdf
-))**
+)**
 
 ---
 
